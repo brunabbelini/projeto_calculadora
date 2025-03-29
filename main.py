@@ -22,7 +22,7 @@ if __name__ == '__main__':
     app.setWindowIcon(icon)
 
     # Info
-    info = Info('Sua conta')
+    info = Info('')
     window.addWidgetToVLayout(info)
 
     # Display
