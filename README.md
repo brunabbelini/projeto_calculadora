@@ -5,9 +5,7 @@
 - [📖 Descrição do Projeto](#descrição-do-projeto)
 - [🛠️ Funcionalidades](#funcionalidades)
 - [🎥 Demonstração da Aplicação](#demonstração-da-aplicação)
-- [📂 Acesso ao Projeto](#acesso-ao-projeto)
 - [🖥️ Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [👥 Contribuidores](#contribuidores)
 - [📜 Licença](#licença)
 
 ## 📖 Descrição do Projeto
@@ -39,19 +37,13 @@ Este projeto consiste em uma calculadora desenvolvida em Python, com interface g
 
 ## 🎥 Demonstração da Aplicação
 
-Vídeo: ![Demonstração da Calculadora](https://github.com/user-attachments/assets/28e91d6b-e3a1-4b21-ad73-04078b9b5099)
+Vídeo: https://github.com/user-attachments/assets/ee41c1a8-fb24-4df5-9860-0752ebb41040
 
 ![Interface da Calculadora](https://github.com/user-attachments/assets/bfe6e83e-0721-4815-b506-611f1d9a7148)
 ![calculadora2](https://github.com/user-attachments/assets/64344cce-9cf4-4acf-a831-1dd4052da2a7)
 ![calculadora3](https://github.com/user-attachments/assets/e7803381-11d8-4382-988e-0a2d1b5c3792)
 ![calculadora4](https://github.com/user-attachments/assets/6fecd32f-5cb4-4edb-8862-6a9edd64d070)
 
-
-## 📂 Acesso ao Projeto
-
-Para acessar os arquivos do projeto, visite o repositório no GitHub:
-
-🔗 [https://github.com/brunabbelini/projeto_calculadora](https://github.com/brunabbelini/projeto_calculadora)
 
 ## 🖥️ Tecnologias Utilizadas
 
