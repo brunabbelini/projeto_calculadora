@@ -1,7 +1,5 @@
 # Calculadora em Python
 
-![Badge de Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-
 ## 📌 Índice
 
 - [📖 Descrição do Projeto](#descrição-do-projeto)
@@ -41,6 +39,9 @@ Este projeto consiste em uma calculadora desenvolvida em Python, com interface g
 
 ## 🎥 Demonstração da Aplicação
 
+![Interface da Calculadora](file:///C:/Users/bubub/Downloads/calculadora1.png)
+
+![Demonstração da Calculadora](file:///C:/Users/bubub/Videos/Gravações%20de%20Tela/Gravação%20de%20Tela%202025-03-29%20215451.mp4)
 
 ## 📂 Acesso ao Projeto
 
