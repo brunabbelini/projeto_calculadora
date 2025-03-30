@@ -39,9 +39,11 @@ Este projeto consiste em uma calculadora desenvolvida em Python, com interface g
 
 ## 🎥 Demonstração da Aplicação
 
-![Interface da Calculadora](file:///C:/Users/bubub/Downloads/calculadora1.png)
+![Interface da Calculadora](https://github.com/user-attachments/assets/bfe6e83e-0721-4815-b506-611f1d9a7148)
 
-![Demonstração da Calculadora](file:///C:/Users/bubub/Videos/Gravações%20de%20Tela/Gravação%20de%20Tela%202025-03-29%20215451.mp4)
+![Demonstração da Calculadora](https://github.com/user-attachments/assets/28e91d6b-e3a1-4b21-ad73-04078b9b5099)
+
+![calculadora1](https://github.com/user-attachments/assets/f5ef560b-2224-4da0-b18b-6926e72d0939)
 
 ## 📂 Acesso ao Projeto
 
